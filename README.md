@@ -1,7 +1,7 @@
 # ASSIGNMENT-5
 Data Structures and Strings in Python
 # Task:01  Problem Statement: Write a Python program that:
-Creates a dictionary where student names are keys and their marks are values.
+* Creates a dictionary where student names are keys and their marks are values.
 Asks the user to input a student's name.
 Retrieves and displays the corresponding marks.
 If the student’s name is not found, display an appropriate message.
